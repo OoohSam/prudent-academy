@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-maroon: #800000;
+  --color-maroon-dark: #600000;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-black font-sans;
+  }
+}
