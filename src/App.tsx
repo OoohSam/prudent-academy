@@ -234,7 +234,7 @@ export default function App() {
                 className="aspect-square overflow-hidden rounded-xl shadow-lg"
               >
                 <img
-                  src={img}
+                  src={ "https://media.gettyimages.com/id/143922541/photo/african-students-at-school.jpg?s=612x612&w=gi&k=20&c=nDsrny81WMsZrI1RsF1ojjEn-UYd2kK86gN935PB8oY="}
                   alt={`Student ${idx + 1}`}
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
