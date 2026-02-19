@@ -173,7 +173,7 @@ export default function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&h=1000&auto=format&fit=crop"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXSxbb5zVr5KZ60hfjfWt4H7bljDoinE5Lw&s"
                 alt="Happy African student"
                 className="rounded-3xl shadow-2xl"
                 referrerPolicy="no-referrer"
