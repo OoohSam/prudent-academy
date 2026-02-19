@@ -93,7 +93,7 @@ export default function App() {
       <section className="relative h-[600px] flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1920&h=1080&auto=format&fit=crop"
+            src="https://thumbs.dreamstime.com/b/johannesburg-south-africa-october-african-children-primary-school-classroom-african-children-primary-school-classroom-117293026.jpg"
             alt="African students in classroom"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -109,7 +109,7 @@ export default function App() {
             className="max-w-2xl"
           >
             <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
-              Nurturing <span className="text-maroon">Excellence</span>, Inspiring Futures
+              Elimu <span className="text-maroon">Haki</span>, Uwezo
             </h1>
             <p className="text-xl text-zinc-300 mb-8">
               At Prudent Academy, we provide a world-class education rooted in integrity, 
@@ -223,10 +223,10 @@ export default function App() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=400&h=400&auto=format&fit=crop",
-              "https://images.unsplash.com/photo-1503919919749-646ddc46b3a4?q=80&w=400&h=400&auto=format&fit=crop",
-              "https://images.unsplash.com/photo-1526662092594-e98c1e356d6a?q=80&w=400&h=400&auto=format&fit=crop",
-              "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=400&h=400&auto=format&fit=crop",
+              "https://thumbs.dreamstime.com/b/african-schoolchildren-6079122.jpg",
+              "https://media.gettyimages.com/id/143922541/photo/african-students-at-school.jpg?s=612x612&w=gi&k=20&c=nDsrny81WMsZrI1RsF1ojjEn-UYd2kK86gN935PB8oY=",
+              "hhttps://t4.ftcdn.net/jpg/03/11/48/73/360_F_311487387_5jkdQsYUGmP6D8DKWJPRk4esBymRQXNL.jpgttps://t4.ftcdn.net/jpg/03/11/48/73/360_F_311487387_5jkdQsYUGmP6D8DKWJPRk4esBymRQXNL.jpg",
+              "https://st2.depositphotos.com/7232356/11182/i/950/depositphotos_111828836-stock-photo-african-children-at-school.jpg",
             ].map((img, idx) => (
               <motion.div
                 key={idx}
@@ -262,7 +262,7 @@ export default function App() {
                   </div>
                   <div>
                     <p className="text-sm text-maroon-200">Call Us</p>
-                    <p className="font-bold">+254 700 000 000</p>
+                    <p className="font-bold">+254 701 121 054</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -280,7 +280,7 @@ export default function App() {
                   </div>
                   <div>
                     <p className="text-sm text-maroon-200">Visit Us</p>
-                    <p className="font-bold">123 Academy Road, Nairobi, Kenya</p>
+                    <p className="font-bold">452 Kabiria, Nairobi, Kenya</p>
                   </div>
                 </div>
               </div>
